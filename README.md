@@ -2,8 +2,6 @@
 
 I'm Ahashan Habib Utsho, MERN stack developer 👨🏽‍💻 from Dhaka, Bangladesh. I build full-stack web applications using Next.js, Typescript, Redux, Tailwind, Ant Design, Next UI, ShadCn, Firebase, MongoDB, Express and Node.js, with a focus on clean, efficient code and user-friendly experiences. Let's connect!
 
-🌍 Find Me On:
-<br/>
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&labelColor=1877F2&logo=facebook&logoColor=white&link=https://facebook.com/habibutsho007)](https://www.facebook.com/habibutsho007) [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/habib-utsho)](https://twitter.com) [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&labelColor=E4405F&logo=instagram&logoColor=white&link=https://instagram.com/habib-utsho)](https://www.instagram.com/ahashanhabibutsho/profilecard/) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/habib-utsho/)](https://www.linkedin.com/in/habib-utsho/) [![Medium Badge](https://img.shields.io/badge/-Medium-03a57a?style=flat-square&labelColor=03a57a&logo=Medium&link=https://medium.com/@entrptaher/)](https://medium.com) [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:entrptaher+github@gmail.com)](mailto:utsho926+github@gmail.com)
 
 
