@@ -1,4 +1,4 @@
-### Hello, nice to see you here 👋
+### Hello, nice to see you here! 👋
 
 I'm Habib Utsho, MERN stack developer 👨🏽‍💻 from Dhaka, Bangladesh. I build full-stack web applications using Next.js, Typescript, Redux, Tailwind, Ant Design, Next UI, ShadCn, Firebase, MongoDB, Express and Node.js, with a focus on clean, efficient code and user-friendly experiences. Let's connect!
 
